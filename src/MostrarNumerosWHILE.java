@@ -11,7 +11,7 @@ public class MostrarNumerosWHILE {
         System.out.println("Número Final:");
         numeroFinal = scanner.nextInt();
 
-        System.out.printf("Immmprimindo valores entre %d e %d \n", numeroInicial, numeroFinal);
+        System.out.printf("Imprimindo valores entre %d e %d \n", numeroInicial, numeroFinal);
 
         int i = numeroInicial;
         while(i <= numeroFinal ){
